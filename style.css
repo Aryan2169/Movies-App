@@ -15,10 +15,12 @@ body {
     align-items: center;
 }
 
-nav{
+a{
     font-size:x-large;
     align-items: center;
     padding-right: 50px;
+    text-decoration: none;
+    color: #7378c5;
 }
 
 header {
